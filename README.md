@@ -70,6 +70,8 @@ The **Restaurant Booking Web Application** is a simple and efficient platform fo
 - **Homepage**: Screenshot showing the homepage with available table options.
 - **Reservation Confirmation**: Screenshot showing the confirmation page after a successful reservation.
 - **My Reservations**: Screenshot displaying the list of reservations with options to cancel.
+![Screenshot 2025-01-16 102954](https://github.com/user-attachments/assets/b7f66eac-9097-4a24-bbbf-77e2c892e866)
+
 ![image](https://github.com/user-attachments/assets/78e6178d-4649-4a47-aed6-b7f13d1ee3eb)
 
 ---
